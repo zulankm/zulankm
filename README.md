@@ -2,7 +2,7 @@
 
 - 👀 
 
-- 🌱 Currently learning C++,HTLML,CSS,SQL and DAA & DSA
+- 🌱 Currently learning  C,Python,C++,HTLML,CSS,React,SQL and DAA & DSA
 
 
 - 💞️ I'd love to be part of projects that test my own skill and will help me improve and learn more about programming languages and it's practical application on real life problems

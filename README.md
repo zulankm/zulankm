@@ -14,14 +14,31 @@
   
   <p>&nbsp;</p>
   <!--social media icon-->
-<div align="center">
+<div>
  
- 
-<a href="https://twitter.com/kart12mehta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kart12mehta" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/kartikaymehta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kartikaymehta" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/zulanhexenbane#5052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="zulanhexenbane#5052" height="40" width="30" /></a>&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/KartikayMehta?label=Follow&style=social)](https://github.com/KartikayMehta/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-KartikayMehta-blue?style=social&logo=Instagram&link=https://www.instagram.com/kartikaymehta/)](https://www.instagram.com/kartikaymehta/) 
+## Connect with me here :
+<p align="left">
+<a href="http://twitter.com/kart12mehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/twitter%20(2).png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://instagram.com/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/instagram.png" alt="" height="30" /></a>
+<a href="https://dev.to/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/devto.png" alt="" height="30" /></a>
+ </p>
+
+## I'm a gamer too, so you might find me on:
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
+ </p> 
 
 
 </div>  
@@ -158,7 +175,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <br/>  
 
+
+<img  alt="dark mide" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/this_page_is.gif" />
+
    
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 

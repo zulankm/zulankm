@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
- <img width="400" height="400" align='centre' src="
+ <img width="1080" height="600" align='centre' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/dev-working_rounded.gif">
   </div>
   
   <p>&nbsp;</p>

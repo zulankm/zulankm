@@ -1,8 +1,15 @@
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" alt="hello coder typer" width="720" height="360" />
+</div>
+
+
+
 ## Hi <C𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Kartikay :)
 
 <!--Header-->
   <div>
- <img width="1080" height="600" align='centre' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/dev-working_rounded.gif">
+ <img width="1080" height="720" align='centre' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/dev-working_rounded.gif">
   </div>
   
   <p>&nbsp;</p>
@@ -25,7 +32,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/Developer.gif">  
 </p>
   
 

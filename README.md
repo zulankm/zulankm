@@ -112,21 +112,19 @@ Having a hobby is a <b>great</b> <img align='right' src='https://github.com/Kart
 but also gives you a sense of satisfaction and improves mental and physical aspects of one's being which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. I read a lot of of books of different genres since they are the gateway to different experiences of other people.I love playing different music instruments and listening to music.I love swimming and all kinds of sports especially football.  
 ##
 <p align="center">
-  <a href="#">
+  <a href="https://www.codechef.com/users/zulanhexenbane">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="#">
+  <a href="https://leetcode.com/zulanhexenbane">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/hackcoderr">
+  <a href="https://www.hackerrank.com/kart12mehta">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ##

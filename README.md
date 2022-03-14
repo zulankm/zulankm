@@ -109,7 +109,7 @@ These are the technical skills that i have in my arsenal for now but i'm always 
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/KartikayMehta/KartikayMehta/blob/main/images/Untitled%20design.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you a sense of satisfaction and improves mental and physical aspects of one's being which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. I read a lot of of books of different genres since they are the gateway to different experiences of other people.I love playing different music instruments and listening to music.I love swimming and all kinds of sports especially football.  
+but also gives you a sense of satisfaction and improves mental and physical aspects of one's being which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. I read a lot of  books of different genres since they are the gateway to different experiences of other people.I love playing different music instruments and listening to music.I love swimming and all kinds of sports especially football.  
 ##
 <p align="center">
   <a href="https://www.codechef.com/users/zulanhexenbane">

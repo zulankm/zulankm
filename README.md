@@ -8,8 +8,8 @@
 ## Hi <C𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Kartikay :)
 
 <!--Header-->
-  <div>
- <img width="1080" height="720" align='centre' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/dev-working_rounded.gif">
+  <div align="centre">
+ <img width="720" height="360" align='centre' src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/dev-working_rounded.gif">
   </div>
   
   <p>&nbsp;</p>

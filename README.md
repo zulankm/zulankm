@@ -76,11 +76,10 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
 
+### Watch my contribution graph get eaten by the snake 🐍
 
-
-![Kartikay's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=KartikayMehta&theme=dracula)
-
-
+<!-- platane/snk works, it just puts it on a new branch -->
+![kartikaymehta snake gif](https://github.com/KartikayMehta/KartikayMehta/blob/output/github-contribution-grid-snake.svg)
 
 
  <!--My Hobbies-->

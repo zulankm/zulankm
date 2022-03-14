@@ -56,7 +56,7 @@
 
 ## About Me ✍
  
- I'm <b> Sachin Kumar</b>, a curious person, Who wants to know every bit of **DevOps** and **Cloud Computing**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> Kartikay Mehta</b>, an inquisitive person, Who wants to know every bit of **DevOps**,**Cloud Computing**,**Machine Learning**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I have developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I am always passionate about understanding the core concepts behind different popular Technological Fields and implementing them in effective ways. 
 
 
 </div>
@@ -67,7 +67,8 @@
 
 <img align='left' src='https://github.com/KartikayMehta/KartikayMehta/blob/main/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif' width="240" height="230" >
 
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies.
+As we all know that being an <b>Engineer</b>, Technical skills that we learn always provide a unique view point on any problem and passion to solve it efficiently. These  technical skills of an engineer are similar to the sword of a soldier or pen of a writer,essential to his survival and and an effective skillset that will always help him.
+These are the technical skills that i have in my arsenal for now but i'm always striving to learn new skills and and tools.
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -107,8 +108,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/KartikayMehta/KartikayMehta/blob/main/images/Untitled%20design.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+but also gives you a sense of satisfaction and improves mental and physical aspects of one's being which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. I read a lot of of books of different genres since they are the gateway to different experiences of other people.I love playing different music instruments and listening to music.I love swimming and all kinds of sports especially football.  
 ##
 <p align="center">
   <a href="#">

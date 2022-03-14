@@ -138,14 +138,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KartikayMehta&show_icons=true&include_all_commits=true&theme=algolia" alt="Kartikay's github stats" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayMehta&theme=algolia" alt="hackcoderr"/>
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KartikayMehta&layout=compact&theme=algolia" alt="kartikaymehta" />
  
  <p align="center"> 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KartikayMehta&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+</p>
 <!--footer-->
 
 ##
@@ -153,18 +155,18 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/KartikayMehta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100002652412123" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/@kart12mehta" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://linkedin.com/in/kartikaymehta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
+<a href="https://instagram.com/kartikaymehta" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -184,7 +186,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
 
 
 

@@ -16,7 +16,6 @@
  
 ## Connect with me here :
 <p align="left">
-<a href="http://twitter.com/kart12mehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/twitter%20(2).png" alt="" height="30" /></a>
 <a href="http://linkedin.com/in/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/kartikaymehta" target="blank"><img align="center" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/devto.png" alt="" height="30" /></a>

@@ -121,7 +121,7 @@ but also gives you a sense of satisfaction and improves mental and physical aspe
 <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zulankm&show_icons=true&include_all_commits=true&theme=algolia" alt="Kartikay's github stats" />
 </p>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zulankm&theme=algolia" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KartikayMehta&layout=compact&theme=algolia" alt="kartikaymehta" />
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zulankm&layout=compact&theme=algolia" alt="kartikaymehta" />
  
  <p align="center"> 
   

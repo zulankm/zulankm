@@ -118,14 +118,14 @@ but also gives you a sense of satisfaction and improves mental and physical aspe
 
 ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KartikayMehta&show_icons=true&include_all_commits=true&theme=algolia" alt="Kartikay's github stats" />
+<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zulankm&show_icons=true&include_all_commits=true&theme=algolia" alt="Kartikay's github stats" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayMehta&theme=algolia" alt="hackcoderr"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zulankm&theme=algolia" alt="hackcoderr"/>
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KartikayMehta&layout=compact&theme=algolia" alt="kartikaymehta" />
  
  <p align="center"> 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=KartikayMehta&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=zulankm&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 <!--footer-->
@@ -135,7 +135,7 @@ but also gives you a sense of satisfaction and improves mental and physical aspe
 
 
 <div align="center">
-<a href="https://github.com/KartikayMehta" target="_blank">
+<a href="https://github.com/zulankm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/kartikaymehta" target="_blank">
@@ -148,7 +148,7 @@ but also gives you a sense of satisfaction and improves mental and physical aspe
 <br/>  
 
 
-<img  alt="dark mide" src="https://github.com/KartikayMehta/KartikayMehta/blob/main/images/this_page_is.gif" />
+<img  alt="dark mide" src="https://github.com/zulankm/zulankm/blob/main/images/this_page_is.gif" />
 
    
 

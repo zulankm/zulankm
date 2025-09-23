@@ -6,7 +6,7 @@
 🚀 **AI/ML Engineer | Data Analyst | Full-Stack Developer**  
 Passionate about building scalable AI solutions, solving complex problems with data, and developing impactful software systems.  
 
-📍 Hyderabad, India  
+📍 India  
 📧 [Email](mailto:kart12mehta@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kartikaymehta/) | 💻 [GitHub](https://github.com/zulankm)  
 
 ---

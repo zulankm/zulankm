@@ -11,11 +11,9 @@ Passionate about building scalable AI solutions, solving complex problems with d
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 B.Tech in **Computer Science and Engineering** (Graphic Era University, CGPA: 8.20)  
+## 🧑‍💻 About Me    
 - 💡 Skilled in **Machine Learning, Data Engineering, and Full-Stack Development**  
-- 🔍 Currently: **Programmer Analyst @ Cognizant**  
-- 🧠 Previously: **Remote AI Training Coding Expert @ Outlier**  
+- 🔍 Currently: **System/Business Aaalyst @ Cognizant**   
 - 🎯 Goal: Innovating at the intersection of **AI, data, and scalable systems**  
 
 ---

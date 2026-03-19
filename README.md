@@ -1,8 +1,5 @@
 
 
-
-# 👋 Hi, I’m Kartikay Mehta  
-
 🚀 **AI/ML Engineer | Data Analyst | Full-Stack Developer**  
 Passionate about building scalable AI solutions, solving complex problems with data, and developing impactful software systems.  
 
